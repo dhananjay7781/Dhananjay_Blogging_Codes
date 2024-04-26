@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dhananjay_Patil\\Desktop\\DP_NP_Practice\\blog_application\\blog_application\\blog_application.csproj": {}
+    "C:\\Users\\Dhananjay_Patil\\Desktop\\Blog\\CRUD_Operations\\blog_application\\blog_application\\blog_application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dhananjay_Patil\\Desktop\\DP_NP_Practice\\blog_application\\blog_application\\blog_application.csproj": {
+    "C:\\Users\\Dhananjay_Patil\\Desktop\\Blog\\CRUD_Operations\\blog_application\\blog_application\\blog_application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dhananjay_Patil\\Desktop\\DP_NP_Practice\\blog_application\\blog_application\\blog_application.csproj",
+        "projectUniqueName": "C:\\Users\\Dhananjay_Patil\\Desktop\\Blog\\CRUD_Operations\\blog_application\\blog_application\\blog_application.csproj",
         "projectName": "blog_application",
-        "projectPath": "C:\\Users\\Dhananjay_Patil\\Desktop\\DP_NP_Practice\\blog_application\\blog_application\\blog_application.csproj",
+        "projectPath": "C:\\Users\\Dhananjay_Patil\\Desktop\\Blog\\CRUD_Operations\\blog_application\\blog_application\\blog_application.csproj",
         "packagesPath": "C:\\Users\\Dhananjay_Patil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dhananjay_Patil\\Desktop\\DP_NP_Practice\\blog_application\\blog_application\\obj\\",
+        "outputPath": "C:\\Users\\Dhananjay_Patil\\Desktop\\Blog\\CRUD_Operations\\blog_application\\blog_application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dhananjay_Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
